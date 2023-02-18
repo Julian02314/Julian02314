@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">📚 I'm currently learning JavaScript and React.<br>🎯 Goals: Participate in challenging projects.<br>🎲 Fun fact: in actuality im student</p>
+<p align="center">📚 I'm currently learning JavaScript and React.<br>🎯 Goals: Participate in challenging projects.<br>🎲 Fun fact: i'm actuality im student</p>
 
 ###
 
